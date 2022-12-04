@@ -13,4 +13,19 @@ to get fully working app contact me at @Habib_Gm tg or habib.gemmech@gmail.com
 
 **WITH CONTINUES UPDATES**
 
-![alt text](http://url/to/img.png)
+Some images
+
+> INSTALL IMAGE
+![App Installation Image](https://github.com/habib-gm/pharmacy-management-system/https://github.com/habib-gm/pharmacy-management-system/blob/master/assets/install.PNG)
+
+> HOME PAGE IMAGE
+![Home Page Image](https://github.com/habib-gm/pharmacy-management-system/https://github.com/habib-gm/pharmacy-management-system/blob/master/assets/home.PNG)
+
+> SIGN UP PAGE
+![Sign Up Image](https://github.com/habib-gm/pharmacy-management-system/https://github.com/habib-gm/pharmacy-management-system/blob/master/assets/signup%20page.PNG)
+
+>ADD DRUGS IMAGE
+![Add Drugs Image](https://github.com/habib-gm/pharmacy-management-system/https://github.com/habib-gm/pharmacy-management-system/blob/master/assets/add%20new%20drug.PNG)
+
+> TRANSACTION REPORT 
+![Transaction Report Image](https://github.com/habib-gm/pharmacy-management-system/https://github.com/habib-gm/pharmacy-management-system/blob/master/assets/transaction%20report.PNG)
