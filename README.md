@@ -1,6 +1,7 @@
 # pharmacy-management-system
 Easy Pharmacy management app for linux, mac and windows built by flutter with bloc and object box for state management and data storing.
 to get fully working app contact me at @Habib_Gm on telegram or habib.gemmech@gmail.com 
+## VERY LOW PRICE
 
 ## what are included:
 > 1. Drug Catagories
